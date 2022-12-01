@@ -3,6 +3,9 @@ section{
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    position: absolute;
+    top: 5rem;
+    left: 20rem;
 }
 .mock{
     max-width: auto;
