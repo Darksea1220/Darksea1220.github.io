@@ -47,7 +47,7 @@ class MyPost extends HTMLElement {
                     </div>
 
                     <div class="dots">
-                        <img src=".././images/dots.png" alt="opciones del post"></img>
+                        <img src="https://github.com/Darksea1220/Darksea1220.github.io/blob/main/public/images/dots.png?raw=true" alt="opciones del post"></img>
                     </div>
                 </div>
 
@@ -56,12 +56,12 @@ class MyPost extends HTMLElement {
                 </div>
                 <div class="icons">
                     <div class="lcs">
-                        <img src="../../../../../images/heart.png" alt="dar me gusta"></img>
-                        <img class="space" src="../../../../../images/chat.png" alt="hacer un comentario"></img>
-                        <img src="../../../../../images/send.png" alt="compartir en instagram"></img>
+                        <img src="https://github.com/Darksea1220/Darksea1220.github.io/blob/main/public/images/heart.png?raw=true" alt="dar me gusta"></img>
+                        <img class="space" src="https://github.com/Darksea1220/Darksea1220.github.io/blob/main/public/images/chat.png?raw=true" alt="hacer un comentario"></img>
+                        <img src="https://github.com/Darksea1220/Darksea1220.github.io/blob/main/public/images/send.png?raw=true" alt="compartir en instagram"></img>
                     </div>
-                    <img class="position" src="../../../../../images/dots2.png" alt="puntos que indican la cantidad de imagenes posteadas"></img>
-                    <img src="../../../../../images/save.png" alt="guardar post"></img>
+                    <img class="position" src="https://github.com/Darksea1220/Darksea1220.github.io/blob/main/public/images/dots2.png?raw=true" alt="puntos que indican la cantidad de imagenes posteadas"></img>
+                    <img src="https://github.com/Darksea1220/Darksea1220.github.io/blob/main/public/images/save.png?raw=true" alt="guardar post"></img>
                 </div>
                 <div class="comments">
                     <p class="footer">${this.views}</p>
