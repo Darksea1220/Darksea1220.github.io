@@ -56,12 +56,12 @@ class MyPost extends HTMLElement {
                 </div>
                 <div class="icons">
                     <div class="lcs">
-                        <img src=".././images/heart.png" alt="dar me gusta"></img>
-                        <img class="space" src=".././images/chat.png" alt="hacer un comentario"></img>
-                        <img src=".././images/send.png" alt="compartir en instagram"></img>
+                        <img src="../../../../../images/heart.png" alt="dar me gusta"></img>
+                        <img class="space" src="../../../../../images/chat.png" alt="hacer un comentario"></img>
+                        <img src="../../../../../images/send.png" alt="compartir en instagram"></img>
                     </div>
-                    <img class="position" src=".././images/dots2.png" alt="puntos que indican la cantidad de imagenes posteadas"></img>
-                    <img src=".././images/save.png" alt="guardar post"></img>
+                    <img class="position" src="../../../../../images/dots2.png" alt="puntos que indican la cantidad de imagenes posteadas"></img>
+                    <img src="../../../../../images/save.png" alt="guardar post"></img>
                 </div>
                 <div class="comments">
                     <p class="footer">${this.views}</p>
