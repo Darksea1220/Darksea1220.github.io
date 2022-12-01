@@ -1,7 +1,8 @@
 .suggestions{
     position: absolute;
-    top:6.25rem;
+    top:7.8rem;
     left:50rem;
+    scale: 1.25;
 }
 p{
     font-family: 'Rubik', sans-serif;
