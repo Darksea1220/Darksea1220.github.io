@@ -21,15 +21,9 @@ export class HomContainer extends HTMLElement {
             const post = evt.detail.post;
             const views = evt.detail.views;
             const description = evt.detail.description;
-            if (ubication || post || description == "") {
-                form.classList.remove("on");
-                form.classList.add("off");
-            }
-            else {
-                addPost({ profileimg, name, ubication, post, views, description });
-                form.classList.remove("on");
-                form.classList.add("off");
-            }
+            addPost({ profileimg, name, ubication, post, views, description });
+            form.classList.remove("on");
+            form.classList.add("off");
         });
     }
     render() {
